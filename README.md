@@ -18,6 +18,16 @@ Each report focuses on a unique topic and demonstrates skills in data modeling, 
 
 ## 🚀 Available Reports
 
+### 1️⃣ Employment & Unemployment Analysis
+
+- **Subject**: Comprehensive analysis of employment and unemployment trends in France over several years. The report covers:
+  - **National Overview**: Evolution of unemployment rate and total employment across the country.
+  - **Regional Analysis**: Disparities between regions or departments in terms of employment and unemployment.
+  - **Job Type Distribution**: Breakdown of employment by sector, identifying the most employment-generating industries.
+- **Data**: [`data/Employment & Unemployment Analysis/`](data/Employment & Unemployment Analysis/)  
+- **Preview**: ![Employment](images/Employment & Unemployment Analysis/)  
+- **Interactive Report**: [View on Power BI](https://app.powerbi.com/view?r=eyJrIjoiXXXXXX...)
+
 
 ---
 
