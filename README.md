@@ -23,7 +23,7 @@ Each report focuses on a unique topic and demonstrates skills in data modeling, 
   - **National Overview**: Evolution of unemployment rate and total employment across the country.
   - **Regional Analysis**: Disparities between regions or departments in terms of employment and unemployment.
   - **Job Type Distribution**: Breakdown of employment by sector, identifying the most employment-generating industries.
-- **Data**: [`data/Employment_Unemployment_Analysis/`](data/Employment_Unemployment_Analysis/)  
+- **Data**: [data/Employment_Unemployment_Analysis/](data/Employment_Unemployment_Analysis/)  
 - **Preview**: [images/Employment_Unemployment_Analysis](images/Employment_Unemployment_Analysis/)  
 - **Interactive Report**: [View on Power BI](https://app.powerbi.com/links/yCINqPLIGR?ctid=7742e920-5186-4fb1-b9da-55e66f74b131&pbi_source=linkShare&bookmarkGuid=68d9cda3-3234-4142-ae74-ec19c5e3e2fa)
 
