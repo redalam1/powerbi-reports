@@ -1,11 +1,11 @@
-# 📊 Power BI Multi-Topic Reports
+# Power BI Multi-Topic Reports
 
 This repository showcases a collection of interactive Power BI reports built from different datasets.  
 Each report focuses on a unique topic and demonstrates skills in data modeling, visualization, and storytelling.
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 | Folder | Description |
 |--------|--------------|
@@ -15,7 +15,7 @@ Each report focuses on a unique topic and demonstrates skills in data modeling, 
 
 ---
 
-## 🚀 Available Reports
+## Available Reports
 
 ### 1️⃣ Employment & Unemployment Analysis
 
@@ -30,7 +30,7 @@ Each report focuses on a unique topic and demonstrates skills in data modeling, 
 
 ---
 
-## 🧠 Project Goals
+## Project Goals
 This project demonstrates my ability to:
 - Clean and prepare data for reporting
 - Build and optimize Power BI data models
@@ -39,7 +39,7 @@ This project demonstrates my ability to:
 
 ---
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 - **Power BI Desktop**
 - **Excel / CSV**
 - **Power BI Service**
