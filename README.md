@@ -35,7 +35,7 @@ Each report focuses on a unique topic and demonstrates skills in data modeling, 
 
 - **Data**: [data/Recorded_delinquency/](data/Recorded_delinquency/)  
 
-- **Preview**: ![images/Recorded_delinquency/](images/Recorded_delinquency/)
+- **Preview**: [images/Recorded_delinquency/](images/Recorded_delinquency/)
 
 ---
 
