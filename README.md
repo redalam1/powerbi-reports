@@ -24,9 +24,18 @@ Each report focuses on a unique topic and demonstrates skills in data modeling, 
   - **Regional Analysis**: Disparities between regions or departments in terms of employment and unemployment.
   - **Job Type Distribution**: Breakdown of employment by sector, identifying the most employment-generating industries.
 - **Data**: [data/Employment_Unemployment_Analysis/](data/Employment_Unemployment_Analysis/)  
-- **Preview**: [images/Employment_Unemployment_Analysis](images/Employment_Unemployment_Analysis/)  
-- **Interactive Report**: [View on Power BI](https://app.powerbi.com/links/yCINqPLIGR?ctid=7742e920-5186-4fb1-b9da-55e66f74b131&pbi_source=linkShare&bookmarkGuid=68d9cda3-3234-4142-ae74-ec19c5e3e2fa)
+- **Preview**: [images/Employment_Unemployment_Analysis](images/Employment_Unemployment_Analysis/)
 
+### 2️⃣ Crime & Delinquency Analysis
+
+- **Subject**: Statistical analysis of crimes and offenses recorded by the national police and gendarmerie, covering:  
+  - **National Overview**: Trends in overall crime and delinquency rates across France.  
+  - **Regional & Departmental Analysis**: Disparities in crime rates and types of offenses between regions and departments.  
+  - **Detailed Indicators**: Breakdown by offense type, unit of account (victim, offender, vehicle, etc.), and evolution over time.  
+
+- **Data**: [data/Recorded_delinquency/](data/Recorded_delinquency/)  
+
+- **Preview**: ![images/Recorded_delinquency/](images/Recorded_delinquency/)
 
 ---
 
